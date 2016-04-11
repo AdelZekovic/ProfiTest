@@ -1,1 +1,5 @@
-u viziji sistema medu zahtevima ne vidim mogucnost prikaza i štampanja testa
+predlog projekta 2-2
+plan projekta - Adel dupliran u dijagramu 1,9 - 2
+u viziji sistema medu zahtevima ne vidim mogucnost prikaza i štampanja testa, generisanja kljuca, i pominje se sajt 2,5-3
+fali dokument u ms project-u 0- 2
+specifikacije zahteva nema 0-3
